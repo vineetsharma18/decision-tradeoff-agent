@@ -12,5 +12,7 @@ Initially, I was unsure how to structure the decision logic and how to meaningfu
 ## How I solved them
 Simplified the approach by focusing on a clear flow: input → tool calls → structured output. I ensured the agent uses at least two tools and provides understandable output.
 
+I improved the agent by adding structured comparison and priority-based reasoning instead of just returning raw tool outputs. This helped make the agent more useful and closer to real decision-making.
+
 ## What I learned
 Learned how to connect multiple tools to create a simple AI agent and how structured knowledge systems can help in decision-making.

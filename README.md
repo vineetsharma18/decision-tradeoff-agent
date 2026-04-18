@@ -16,7 +16,12 @@ This agent helps users make better decisions by analyzing tradeoffs between opti
 2. Run:
    python agent.py
 
-
 ## Example
 Input: AI vs Web Development  
 Output: Tradeoff analysis + recommendation
+
+## What makes this unique
+This agent goes beyond simple advice by:
+- Breaking decisions into structured comparisons
+- Adapting output based on user priorities
+- Combining multiple knowledge sources into one reasoning flow
